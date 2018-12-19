@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Diseño", "Calculadora_UML_WPF\Capa_Diseño.csproj", "{63ACD7CE-25C0-4CB2-A638-7CB55BCAEE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Negocio", "Capa_Negocio\Capa_Negocio.csproj", "{695DA8F4-528A-464F-87CA-5D47DD28F519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63ACD7CE-25C0-4CB2-A638-7CB55BCAEE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ACD7CE-25C0-4CB2-A638-7CB55BCAEE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ACD7CE-25C0-4CB2-A638-7CB55BCAEE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ACD7CE-25C0-4CB2-A638-7CB55BCAEE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695DA8F4-528A-464F-87CA-5D47DD28F519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695DA8F4-528A-464F-87CA-5D47DD28F519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695DA8F4-528A-464F-87CA-5D47DD28F519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695DA8F4-528A-464F-87CA-5D47DD28F519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA0F0BF-E42A-4157-A37D-D99EC0104A56}
+	EndGlobalSection
+EndGlobal
